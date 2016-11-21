@@ -71,5 +71,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>system4</finalName>
 	</build>
 </project>
